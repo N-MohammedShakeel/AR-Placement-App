@@ -302,9 +302,6 @@ android {
 - Submit bug reports or feature requests via GitHub issues.
 - For code contributions, create a pull request with clear descriptions.
 
-### 13. License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Customization Notes
